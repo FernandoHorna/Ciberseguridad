@@ -11,9 +11,11 @@ Primero se hablará de los prerequisitos a la explotación y luego se procederá
 ## Prerequisitos
 1. Contar con Linux y una  versión del kernel distinta a:  5.16.11, 5.15.25 y 5.10.102.
 > Verificar con:
+> 
 > uname -r
 2. Actualizar todas las dependencias y paquetes del OS
 > sudo apt update 
+> 
 > sudo apt upgrade
 3. Descargar el Ubuntu Kernel Mainline  Installer e instalar una versión del kernel vulnerable.
 > sudo add-apt-repository ppa:cappelikan/ppa
