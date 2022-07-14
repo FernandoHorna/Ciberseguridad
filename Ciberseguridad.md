@@ -41,6 +41,7 @@ El resultado debe ser el siguiente:
 
 4. Comprobar la ejecución del exploit:
 > id
+> 
 > whoami
 
 ![image](https://i.imgur.com/UrhDZQj.png)
