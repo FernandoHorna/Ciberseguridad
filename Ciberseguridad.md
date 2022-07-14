@@ -17,6 +17,7 @@ Primero se hablará de los prerequisitos a la explotación y luego se procederá
 > sudo apt upgrade
 3. Descargar el Ubuntu Kernel Mainline  Installer e instalar una versión del kernel vulnerable.
 > sudo add-apt-repository ppa:cappelikan/ppa
+> 
 > sudo apt install mainline
 4. Ingresar a Advanced  Settings en el boot  menu.
 5. Seleccionar la versión del kernel descargada.
@@ -28,6 +29,7 @@ Primero se hablará de los prerequisitos a la explotación y luego se procederá
 > https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits
 2. Ejecutar el compilador del exploit:
 > chmod +x compile.sh
+> 
 > ./compile.sh
 3. Ejecutar el exploit compilado:
 > ./exploit-1
