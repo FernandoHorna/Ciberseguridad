@@ -34,6 +34,7 @@ Primero se hablará de los prerequisitos a la explotación y luego se procederá
 
 El resultado debe ser el siguiente:
 ![image](https://i.imgur.com/vc650oe.png)
+
 4. Comprobar la ejecución del exploit:
 > id
 > whoami
